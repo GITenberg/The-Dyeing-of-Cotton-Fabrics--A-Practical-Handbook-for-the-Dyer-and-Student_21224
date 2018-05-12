@@ -1,0 +1,28 @@
+_repo: The-Dyeing-of-Cotton-Fabrics--A-Practical-Handbook-for-the-Dyer-and-Student_21224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beech, Franklin
+    gutenberg_agent_id: '9012'
+    url: http://www.gutenberg.org/2009/agents/9012
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21224'
+  lccn: ltf89002585
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Dyes and dyeing -- Cotton'
+title: 'The Dyeing of Cotton Fabrics: A Practical Handbook for the Dyer and Student'
+url: http://www.gutenberg.org/ebooks/21224
